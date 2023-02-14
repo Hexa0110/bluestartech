@@ -1,2 +1,2 @@
-# bluestartech
+# BlueStarTech
 Repositories of BlueStarTech Company
